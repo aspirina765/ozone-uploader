@@ -1,0 +1,12 @@
+!!org.apache.hadoop.ozone.container.common.helpers.DatanodeIdYaml$DatanodeDetailsYaml {
+  certSerialId: null,
+  currentVersion: 1,
+  hostName: rhel9dev,
+  initialVersion: 1,
+  ipAddress: 192.168.15.20,
+  persistedOpState: IN_SERVICE,
+  persistedOpStateExpiryEpochSec: 0,
+  portDetails: {
+    },
+  uuid: 7a4d425e-0004-4270-a08b-7d52bd28d47e
+}
